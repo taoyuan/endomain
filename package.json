@@ -1,0 +1,30 @@
+{
+  "name": "endomain",
+  "version": "0.1.0",
+  "description": "A library to provide a contextual feature based on node domain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taoyuan/endomain.git"
+  },
+  "keywords": [
+    "domain",
+    "context"
+  ],
+  "author": "Tao Yuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taoyuan/endomain/issues"
+  },
+  "homepage": "https://github.com/taoyuan/endomain#readme",
+  "dependencies": {
+    "continuation-local-storage": "^3.1.4"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  }
+}
