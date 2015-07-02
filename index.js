@@ -1,1 +1,3 @@
-module.exports = require('./lib/endomain');
+module.exports = exports = require('./lib/endomain');
+
+exports.context = require('./lib/endomain');
